@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 print("Welcome");
 printcgsdjfhg;
 ïùùâèíó world;
+hello my dear frend;
+glad to see you;
+
